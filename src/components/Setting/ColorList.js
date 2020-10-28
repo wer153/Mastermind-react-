@@ -1,0 +1,3 @@
+const colorList = ["silver", "white", "tomato", "gold", "lightblue", "pink", "mediumslateblue", "orchid", "crimson", "rosybrown", "sandybrown", "turquoise","sienna", "lightcoral", "palegreen", "burlywood","olive","papayawhip","beige", "lightcyan", "lavender","darksalmon","thistle","coral", "seagreen", "teal", "yellowgreen", "darkseagreen", "lightslategray", "purple", "dimgray", "hotpink", "darkslateblue"] 
+
+export default colorList
