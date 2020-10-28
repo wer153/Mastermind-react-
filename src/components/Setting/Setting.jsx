@@ -35,7 +35,7 @@ function Setting(props){
         return myColors
     }
     return (
-    <div>
+    <div id="right-side">
         {/* show color list */}
         <div className="color-plate">
             <h3>Choose your {num_colors} colors!</h3>

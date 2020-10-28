@@ -24,9 +24,9 @@ header h1 {
 .sider {
     /* position: absolute; */
     /* float: right; */
-    height:15%;
-    width:10%;
-    display:block;
+    /* height:15%;
+    width:10%; */
+    display:inline-block;
     text-align: center;
     right: 0%;
     top: 10%;
@@ -73,7 +73,10 @@ body {
     padding: 0 16px;
   }
 
+
 .color-plate {
+    display:block;
+    right:0%;
     text-align: center;
     position: relative;
     margin: 30px 18% 20px 18%;
