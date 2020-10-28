@@ -22,10 +22,6 @@ header h1 {
 }
 
 .sider {
-    /* position: absolute; */
-    /* float: right; */
-    /* height:15%;
-    width:10%; */
     display:inline-block;
     text-align: center;
     right: 0%;
