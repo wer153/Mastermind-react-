@@ -52,12 +52,12 @@ function App() {
       <Setting onSubmit={handleSetting} numColors={numColors}/> 
       :
       <div>
-        <h3>Target Code</h3>
+        
         {/* show generated code (color not visible)*/}
         <div className="color-plate"> 
           <Colors colors={code} isCode={true}/>
         </div>
-        <h3>Your Code</h3>
+        
         {/* show user's answer and result for each round */}
         <div className="color-plate"> 
           {rounds.map((round,index)=> {
