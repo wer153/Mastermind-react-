@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Mastermind.io/static/js/main.dfbafafd.chunk.js",
+    "main.js.map": "/Mastermind.io/static/js/main.dfbafafd.chunk.js.map",
+    "runtime-main.js": "/Mastermind.io/static/js/runtime-main.ca36ac2f.js",
+    "runtime-main.js.map": "/Mastermind.io/static/js/runtime-main.ca36ac2f.js.map",
+    "static/js/2.90f76093.chunk.js": "/Mastermind.io/static/js/2.90f76093.chunk.js",
+    "static/js/2.90f76093.chunk.js.map": "/Mastermind.io/static/js/2.90f76093.chunk.js.map",
+    "index.html": "/Mastermind.io/index.html",
+    "static/js/2.90f76093.chunk.js.LICENSE.txt": "/Mastermind.io/static/js/2.90f76093.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca36ac2f.js",
+    "static/js/2.90f76093.chunk.js",
+    "static/js/main.dfbafafd.chunk.js"
+  ]
+}
