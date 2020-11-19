@@ -55,11 +55,13 @@ function App() {
         
         {/* show generated code (color not visible)*/}
         <div className="color-plate"> 
+          <h3>Target Code</h3>
           <Colors colors={code} isCode={true}/>
         </div>
         
         {/* show user's answer and result for each round */}
         <div className="color-plate"> 
+          <h3>Your Code</h3>
           {rounds.map((round,index)=> {
             return <Round 
               key={index}
