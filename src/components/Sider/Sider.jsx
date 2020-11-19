@@ -16,7 +16,7 @@ function Sider(){
         <div className="sider">
             <TiPin/>
             <hr/>
-            <h3>add/remove <br></br>color</h3><HiCursorClick/>
+            <h3>Click to<br/>add/remove <br/>color</h3><HiCursorClick/>
             
         </div>
         

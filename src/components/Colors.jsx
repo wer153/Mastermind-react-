@@ -1,6 +1,6 @@
 import React from "react";
 import Button from '@material-ui/core/Button'
-import { VscSymbolColor, VscChromeClose } from "react-icons/vsc";
+import { VscSymbolColor} from "react-icons/vsc";
 import { GrLocationPin } from "react-icons/gr";
 
 function Colors(props) {
@@ -25,7 +25,7 @@ function Colors(props) {
           [...Array(props.result[1])].map((n, index) => <VscSymbolColor key={index}/>)
         }
         {
-          props.result && props.result[0]+props.result[1] == 0 
+          props.result && props.result[0]+props.result[1] === 0 
           ? <div>
               {/* <VscChromeClose style={{color:"#ed6969"}}/> */}
               <h5>No Match!</h5>
