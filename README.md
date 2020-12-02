@@ -1,3 +1,7 @@
+# Get to see the published website with the link below
+ 
+https://wer153.github.io/Mastermind.io/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
