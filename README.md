@@ -1,6 +1,6 @@
 # Techstack
 
-### React, html, css
+### `React, html, css`
 
 # Mastermind is a well-known boardgame abroad.
 
