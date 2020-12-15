@@ -1,4 +1,6 @@
-# This is my react project Mastermind.
+#Techstack
+
+React, html, css
 
 # Mastermind is a well-known boardgame abroad.
 
