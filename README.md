@@ -2,9 +2,11 @@
 
 ### `React, html, css`
 
-# Mastermind is a well-known boardgame abroad.
+# Mastermind?
 
-# If you are unfamiliar with rule check this out!
+Mastermind is a well-known boardgame abroad.
+
+If you are unfamiliar with rule check this out!
 
 https://magisterrex.files.wordpress.com/2014/07/mastermindrules.pdf
 
